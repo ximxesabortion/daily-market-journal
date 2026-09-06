@@ -2498,5 +2498,23 @@
       "Reject causal stories that lack confirmation from price, breadth, currencies, rates , credit, volatility , and observable supply conditions.",
       "Prefer explicit uncertainty over false precision when an asset handoff is unclear. A probable action belongs in a separate queue from confirmed actions."
     ]
+  },
+  {
+    "date": "2026-09-04",
+    "display_date": "Dated 2026-09-04",
+    "title": "Inflation Week Tests a Broader Risk Map",
+    "href": "posts/2026-09-04.html",
+    "rules": [
+      "Separate a flat weekly index result from a stable regime. Rates , currencies, oil , and breadth can change materially beneath an unchanged index.",
+      "Verify scheduled catalysts with official calendars before assigning timing to a macro branch.",
+      "Use oil as both an asset and a transmission channel through inflation, yields , transport, consumers, and margins.",
+      "Require regional-bank breadth to confirm the lower-rate and small-cap expansion thesis.",
+      "Keep systematic-screen candidates in a research sleeve until price supplies a defined correction, entry, stop, and invalidation.",
+      "Distinguish multi-year thematic quality from current trade location. A strong secular theme can still be a poor immediate entry.",
+      "Use component breadth to test an ETF thesis. Grid, oil services, medical devices, and robotics must not depend on one constituent.",
+      "Do not convert a possible future reaction area into a current official level.",
+      "Require the dollar , long bonds , the yen , volatility , and oil to confirm the same liquidity direction before declaring a regime change.",
+      "Preserve alternative counts when the evidence is structurally ambiguous, but attach each branch to observable confirmation and failure conditions."
+    ]
   }
 ]
